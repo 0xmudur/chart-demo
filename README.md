@@ -1,4 +1,6 @@
-# finfree_demo
+# chart-demo
+
+<img src="https://github.com/0xmudur/chart-demo/blob/master/ss.gif" width="25%" />
 
 ## My Steps
 
@@ -9,8 +11,4 @@
 - Inject all dependencies into the widgets.
 
 Library in use : https://pub.dev/packages/fl_chart
-
-Note: You can find the video recording in the root directory.
-
-Best regards.
 
