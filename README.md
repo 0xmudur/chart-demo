@@ -1,5 +1,7 @@
 # chart-demo
 
+This repo has been prepared for the task given in a job interview.
+
 <img src="https://github.com/0xmudur/chart-demo/blob/master/ss.gif" width="25%" />
 
 ## My Steps
