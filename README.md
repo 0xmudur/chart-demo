@@ -7,10 +7,10 @@ This repo has been prepared for the task given in a job interview.
 ## My Steps
 
 - Get JSON data from API.
-- Modelling OR parsing data.
-- Search AND learn library methods.
+- Modelling and parsing data.
+- Search and learn library methods.
 - Create widget for UI.
-- Inject all dependencies into the widgets.
+- Inject all state into the widgets.
 
 Library in use : https://pub.dev/packages/fl_chart
 
